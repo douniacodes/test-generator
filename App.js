@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>🚀 Générateur d'Idées de Projets</h1>
+        <h1>Idea Generator : trouvez votre prochain projet ! </h1>
         <div className="idea-container">
           {currentIdea ? (
             <div className="idea-card">
